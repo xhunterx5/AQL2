@@ -1,4 +1,4 @@
-package org.example;
+package org.example.TP2.ex1;
 
 public class Palindrome {
     public static boolean isPalindrome(String s) {
@@ -12,8 +12,8 @@ public class Palindrome {
             if (s.charAt(i) != s.charAt(j)) {
                 return false;
             }
-            i--;
-            j++;
+            j--;
+            i++;
         }
         return true;
     }

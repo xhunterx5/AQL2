@@ -7,7 +7,7 @@
         <option name="ENABLED" value="true" />
       </pattern>
       <pattern>
-        <option name="PATTERN" value="org.example.Palindrome" />
+        <option name="PATTERN" value="org.example.TP2.ex1.Palindrome" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>

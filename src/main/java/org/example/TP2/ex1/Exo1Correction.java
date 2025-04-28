@@ -1,4 +1,4 @@
-package org.example;
+package org.example.TP2.ex1;
 
 public class Exo1Correction {
     public static boolean isPalindrome(String s) {
@@ -11,6 +11,7 @@ public class Exo1Correction {
         while (i < j) {
             if (s.charAt(i) != s.charAt(j)) {
                 return false;
+
             }
             j--;
             i++;

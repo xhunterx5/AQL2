@@ -1,7 +1,7 @@
-package LineCoverageTest;
+package Tp1.BranchCoverageTest.LineCoverageTest;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-import org.example.Exo1Correction;
+import org.example.TP2.ex1.Exo1Correction;
 
 public class Exo1Test {
     @Test
